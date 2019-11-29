@@ -1,0 +1,11 @@
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\bin\Debug\netcoreapp2.2\AngleOfClockHands.deps.json
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\bin\Debug\netcoreapp2.2\AngleOfClockHands.runtimeconfig.json
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\bin\Debug\netcoreapp2.2\AngleOfClockHands.runtimeconfig.dev.json
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\bin\Debug\netcoreapp2.2\AngleOfClockHands.dll
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\bin\Debug\netcoreapp2.2\AngleOfClockHands.pdb
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\obj\Debug\netcoreapp2.2\AngleOfClockHands.csprojAssemblyReference.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\obj\Debug\netcoreapp2.2\AngleOfClockHands.csproj.CoreCompileInputs.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\obj\Debug\netcoreapp2.2\AngleOfClockHands.AssemblyInfoInputs.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\obj\Debug\netcoreapp2.2\AngleOfClockHands.AssemblyInfo.cs
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\obj\Debug\netcoreapp2.2\AngleOfClockHands.dll
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\AngleOfClockHands\AngleOfClockHands\obj\Debug\netcoreapp2.2\AngleOfClockHands.pdb
